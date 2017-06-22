@@ -1,7 +1,7 @@
 # Data Types Project
-## Basic Project Structure
+## Use of RequestInput methods
 
-*Data Type Project Structure*
+*Test Request Input Methods*
 
 
 **Java 8**
