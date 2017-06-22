@@ -1,7 +1,7 @@
-# Basic Project
+# Data Types Project
 ## Basic Project Structure
 
-*Default Structure for A Basic Project*
+*Data Type Project Structure*
 
 
 **Java 8**
